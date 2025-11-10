@@ -20,7 +20,7 @@ This is the Frontend of the TODO App, built using React.js and MaterialUI. It co
 
 1. Clone the repository:
    ```
-   git clone <frontend-repo-url>
+   git clone https://github.com/Enara123/TODO-App
    cd client
    ```
 2. Install dependencies:

@@ -21,7 +21,7 @@ This is the Node.js + Express.js backend for the TODO App, providing RESTful API
 
 1. Clone the repository:
    ```
-   git clone <repo-url>
+   https://github.com/Enara123/TODO-App
    cd server
    ```
 2. Install dependencies:
